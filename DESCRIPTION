@@ -1,13 +1,13 @@
 Package: packageCreationRBB
-Title: What the Package Does (One Line, Title Case)
+Title: Creating a Package in R
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Bronwyn",
+           family = "Baillie",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "baillie.bronwyn@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: This package binds two lists of strings.
+License: MIT
 Encoding: UTF-8
 LazyData: true
